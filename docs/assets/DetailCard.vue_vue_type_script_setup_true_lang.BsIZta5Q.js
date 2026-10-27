@@ -1,1 +1,0 @@
-import{d as a,o as s,c as t,i as e,w as l,b as d,t as i,p as o,E as r}from"./index-CHPWzMy3.js";const c=a({__name:"DetailCard",props:{title:{}},setup:a=>(a,c)=>{const p=e;return s(),t(p,{class:"detail-card"},{default:l(()=>[a.title?(s(),t(p,{key:0,class:"detail-head"},{default:l(()=>[d(i(a.title),1)]),_:1})):o("",!0),r(a.$slots,"default")]),_:3})}});export{c as _};
