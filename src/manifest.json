@@ -1,0 +1,31 @@
+{
+  "name": "极光售后助手",
+  "appid": "",
+  "description": "电动车经销商售后 / 固件 OTA 助手",
+  "versionName": "2.0.0",
+  "versionCode": "200",
+  "transformPx": false,
+  "app-plus": {
+    "usingComponents": true,
+    "splashscreen": {
+      "alwaysShowBeforeRender": true,
+      "waiting": true,
+      "autoclose": true,
+      "delay": 0
+    }
+  },
+  "h5": {
+    "title": "极光售后助手",
+    "router": {
+      "base": "./"
+    }
+  },
+  "mp-weixin": {
+    "appid": "",
+    "setting": {
+      "urlCheck": false
+    },
+    "usingComponents": true
+  },
+  "vueVersion": "3"
+}
